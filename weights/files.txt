@@ -1,0 +1,1 @@
+It contains weights for all the trained models including both ML as well as DL models.
