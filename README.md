@@ -109,3 +109,10 @@ https://github.com/chetan-hub-02/asteroid-dynamics-ml-dl
 - The data are derived from **MERCURY N-body integrations** of NEA trajectories over 1 Myr.
 - Use the test set only for final evaluation.
 - Validation data should be used for early stopping and model selection.
+
+---
+
+## Installation
+
+```bash
+pip install -r requirements.txt
