@@ -96,14 +96,6 @@ For CNN training, the training set should be further split into **train / valida
 
 ---
 
-## Related Code
-
-The full training and evaluation pipeline is available at:
-
-https://github.com/chetan-hub-02/asteroid-dynamics-ml-dl
-
----
-
 ## Notes
 
 - The data are derived from **MERCURY N-body integrations** of NEA trajectories over 1 Myr.
