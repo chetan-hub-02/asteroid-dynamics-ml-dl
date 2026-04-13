@@ -42,8 +42,6 @@ Tabulated features extracted at the initial epoch for traditional ML models.
 - Longitude of ascending node
 - Mean anomaly
 - Perihelion distance
-- Aphelion distance
-- Focal distance
 - Asteroid type
 
 **Classes:**
