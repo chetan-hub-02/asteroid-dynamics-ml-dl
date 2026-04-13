@@ -24,7 +24,7 @@ The dataset and trained CNN weights are also available in Zenodo for reproducibi
 
 The dataset is available on Zenodo:
 
-**DOI:** https://doi.org/10.5281/zenodo.19443893  
+**DOI:** https://doi.org/10.5281/zenodo.19553922  
 **Zenodo title:** *Dataset for Machine Learning and Deep Learning Classification of Near-Earth Asteroid Ejection*
 
 ### Dataset contents
